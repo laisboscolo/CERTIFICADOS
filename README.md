@@ -1,7 +1,7 @@
 # CERTIFICADOS
 
-* Desvendando o ESG (foi tirado print pois ainda nao liberou para resgatar o certificado no site)
+* Desvendando o ESG 
   
-* CERTIFICADO WEB 3.0 (foi tirado print pois ainda nao liberou para resgatar o certificado no site)
+* CERTIFICADO WEB 3.0 
 
-* CERTIFICADO FLUÊNCIA (foi tirado print pois ainda nao liberou para resgatar o certificado no site)
+* CERTIFICADO FLUÊNCIA - Fundamentos da Inteligência Artificial
